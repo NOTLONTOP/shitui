@@ -90,9 +90,9 @@ do
 
 		draw.Transparency = 1
 		local text = Drawing.new('Text')
-		text.Text = 'NOTL.WHITELISTER'
+		text.Text = 'shit Library\n\n\n\nDeveloped By:\nKingUnspirited'
 		text.Center = true
-		text.Color = Color3.fromRGB(255,255,255)
+		text.Color = Color3.fromRGB(355,355,355)
 		text.Size = 30
 		text.Position = Vector2.new(
 			(workspace.CurrentCamera.ViewportSize.X / 2),
