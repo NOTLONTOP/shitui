@@ -126,8 +126,8 @@ do
 
 	Main.GUI = Instance.new('ScreenGui', Main.Services.CoreGui)
 	Main.GUI.Name = 'LB UI Library' .. getService('HttpService'):GenerateGUID()
-	sendNotification('UI Library Loaded!', 'Press F1 to show/hide windows!\n- NOTL')
-	sendNotification('Credits', '`NOTL DISCORD SHIT COPIED TO CLIPBOARD')
+	sendNotification('HOT NIGGA', 'Press F1 to show/hide windows!\n- NOTL')
+	sendNotification('NIGGA', '`NOTL DISCORD SHIT COPIED TO CLIPBOARD')
 setclipboard('https://discord.gg/662aXNDYmz')
 
 	function LB_MODULE:Create(window, instance, props)
