@@ -90,7 +90,7 @@ do
 
 		draw.Transparency = 1
 		local text = Drawing.new('Text')
-		text.Text = 'shit Library\n\n\n\nDeveloped By:\nKingUnspirited'
+		text.Text = 'NOTL\n\n\n\nISSEXY:\nLOL'
 		text.Center = true
 		text.Color = Color3.fromRGB(355,355,355)
 		text.Size = 30
