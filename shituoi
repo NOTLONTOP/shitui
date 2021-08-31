@@ -33,7 +33,7 @@ do
 		MISSING = {};
 	
 		COLOR = {
-			WINDOW = Color3.fromRGB(40,40,40);
+			WINDOW = Color3.fromRGB(80,80,80);
 			WINDOW_CLOSED = Color3.fromRGB(80, 0, 140);
 			WINDOW_OPENED = Color3.fromRGB(0, 0, 140);
 			TEXT = Color3.fromRGB(180,180,180);
@@ -41,7 +41,7 @@ do
 			BUTTONTEXT = Color3.fromRGB(180,180,180);
 			SELECTEDBG = Color3.fromRGB(80,80,80);
 			SELECTEDTEXT = Color3.fromRGB(200,200,200);
-			TITLEBAR = Color3.fromRGB(30,30,30);
+			TITLEBAR = Color3.fromRGB(50,50,50);
 		}
 	}
 
